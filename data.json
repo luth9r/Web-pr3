@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Зустріч Node.js розробників",
+        "description": "Обговорення нових можливостей Node.js 20+",
+        "date": "2026-03-10",
+        "organizer": "V8 Community Ukraine"
+    },
+    {
+        "id": 2,
+        "title": "Frontend vs Backend: Битва технологій",
+        "description": "Дебати на тему переваг та недоліків архітектур",
+        "date": "2026-03-15",
+        "organizer": "Web Devs UA"
+    }
+]
